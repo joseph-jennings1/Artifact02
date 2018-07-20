@@ -25,27 +25,27 @@
 
 <div id="container"> 
 	<div class="row"> <!-- Row 1 -->
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-castle.png" alt="Gold_Castle"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-knight.png" alt="Gold_Knight"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-bishop.png" alt="Gold_Bishop"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-king.png" alt="Gold_King"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-queen.png" alt="Gold_Queen"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-bishop.png" alt="Gold_Bishop"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-knight.png" alt="Gold_Knight"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-castle.png" alt="Gold_Castle"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-castle.png" alt="Gold_Castle"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-knight.png" alt="Gold_Knight"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-bishop.png" alt="Gold_Bishop"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-king.png" alt="Gold_King"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-queen.png" alt="Gold_Queen"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-bishop.png" alt="Gold_Bishop"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-knight.png" alt="Gold_Knight"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-castle.png" alt="Gold_Castle"></div> 
 	</div>
  <div class="clear"> </div>
  
 
 	<div class="row"> <!-- Row 2 -->
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/gold-pawn.png" alt="Gold_Pawn"></div> 
 	</div>
 	<div class="clear"> </div>
 
@@ -98,26 +98,26 @@
 	<div class="clear"> </div>
 
 	<div class="row"> <!-- Row 7 -->
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-pawn.png" alt="Black_Pawn"></div> 
 	</div>
  <div class="clear"> </div>
 
 	<div class="row"> <!-- Row 8 -->
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-castle.png" alt="Black_Castle"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-knight.png" alt="Black_Knight"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-bishop.png" alt="Black_Bishop"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-king.png" alt="Black_King"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-queen.png" alt="Black_Queen"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-bishop.png" alt="Black_Bishop"></div> 
-		<div class="black"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-knight.png" alt="Black_Knight"></div> 
-		<div class="white"><img  src="https://github.com/joseph-jennings1/Pictures/blob/master/black-castle.png" alt="Black_Castle"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-castle.png" alt="Black_Castle"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-knight.png" alt="Black_Knight"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-bishop.png" alt="Black_Bishop"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-king.png" alt="Black_King"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-queen.png" alt="Black_Queen"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-bishop.png" alt="Black_Bishop"></div> 
+		<div class="black"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-knight.png" alt="Black_Knight"></div> 
+		<div class="white"><img  src="https://github.com/joseph-jennings1/Artifact02/blob/master/Pictures/black-castle.png" alt="Black_Castle"></div> 
 	</div>
 	<div class="clear"> </div>
 </div>
